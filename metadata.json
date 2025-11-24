@@ -1,0 +1,5 @@
+{
+  "name": "KinemaViz Pro",
+  "description": "An advanced kinematic analysis suite visualizing complex mechanical linkages including Quick Return, Peaucellier, and Watt's mechanisms with real-time tracing and AI integration.",
+  "requestFramePermissions": []
+}
